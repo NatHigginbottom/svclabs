@@ -175,3 +175,9 @@ background: url(../images/go.png) left top no-repeat;cursor: pointer;
 .go:hover{
 background: url(../images/go.png) left bottom no-repeat;
 }
+
+input {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
