@@ -41,6 +41,7 @@ text-transform: uppercase;
 
 .clear{
 clear: both;
+-webkit-appearance: none;
 }
 
 ul.social
