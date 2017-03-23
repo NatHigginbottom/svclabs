@@ -124,6 +124,7 @@ margin: -20px 0;
 width: 636px;
 padding-top: 555px;
 float: left;
+-webkit-appearance: none;
 }
 
 p{
