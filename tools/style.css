@@ -177,7 +177,5 @@ background: url(../images/go.png) left bottom no-repeat;
 }
 
 input{
--webkit-appearance: none;
--moz-appearance: none;
-appearance: none;
+-webkit-border-radius:0px;
 }
